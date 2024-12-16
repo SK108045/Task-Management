@@ -23,7 +23,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mozahidul01/task-management-app.git
+   git clone https://github.com/SK108045/Task-Management.git
    ```
 
 2. Navigate to the project directory:
